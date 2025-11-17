@@ -34,15 +34,6 @@
 
 ## 📊 Параметры конфигурации (data1.json)
 
-### Окно приложения
-```json
-{
-  "window": [
-    {"location": [x, y]},
-    {"size": [width, height]}
-  ]
-}
-
 ### Требования
 pip install PyQt5
 
